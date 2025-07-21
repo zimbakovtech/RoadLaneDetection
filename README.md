@@ -1,6 +1,7 @@
 # 🚗 **Road Lane Detection** 🚗
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 Short and sweet real‑time lane detection in Python using OpenCV. This project processes video files (5–50 clips) to identify and annotate white and yellow lane markings, handling both solid and dashed lines as well as curves.
 
@@ -46,8 +47,10 @@ lane_detection/
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-*Created by Damjan Zimbakov & Efimija Cuneva*
+*Prepared by Damjan Zimbakov & Efimija Cuneva*  
+*July 2025*  
