@@ -18,7 +18,7 @@ Short and sweet real‑time lane detection in Python using OpenCV. This project 
 1. **Clone the repo**
 
    ```bash
-   git clone [https://github.com/yourusername/road-lane-detection.git](https://github.com/zimbakovtech/RoadLaneDetection.git)
+   git clone https://github.com/zimbakovtech/RoadLaneDetection.git
    cd RoadLaneDetection
    ```
 2. **Install dependencies**
