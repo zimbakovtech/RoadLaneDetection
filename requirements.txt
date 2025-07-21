@@ -1,0 +1,6 @@
+opencv-python
+numpy
+matplotlib
+moviepy
+scikit-image
+jupyter
